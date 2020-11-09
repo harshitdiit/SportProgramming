@@ -1,3 +1,3 @@
 # Worst Accepted Time Complexities in Sport Programmming
 
-![Time complexities](../images/worsttime.png)
+![Time complexities](../images/worsttime.PNG)
