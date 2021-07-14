@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+find . -type f -name "*.out" -delete
+find . -type f -name "*.class" -delete

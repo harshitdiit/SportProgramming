@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+using namespace std;
 
 // File I/O
 #define finput ifstream cin;cin.open("in.txt")
@@ -7,7 +8,10 @@
 // Fast cin-cout
 #define fastio ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL)
 
-using namespace std;
+// Boilerplate Code
+#define ll long long 
+#define F(i, n) for(int i=0; i<N; i++)
+#define Fr(i, n) for(int i=N-1; i>-1; i--)
 
 // LinkedList
 struct ListNode {
@@ -29,4 +33,10 @@ void printList(ListNode* head){
 
 // Tree
 
-//
+// DSU
+
+// Djikstra 
+
+// Floyd Warshall
+
+// Kruskal
