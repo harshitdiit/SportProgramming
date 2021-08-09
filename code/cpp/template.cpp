@@ -40,3 +40,12 @@ void printList(ListNode* head){
 // Floyd Warshall
 
 // Kruskal
+
+// GCD 
+int gcd(int a, int b){
+    if(!a)
+        return b;
+    return gcd(b%a, a);
+}
+
+
